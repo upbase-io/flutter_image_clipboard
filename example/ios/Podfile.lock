@@ -1,6 +1,6 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_image_clipboard (0.0.1):
+  - flutter_image_clipboard (1.0.0):
     - Flutter
   - image_picker_ios (0.0.1):
     - Flutter
@@ -25,10 +25,10 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  flutter_image_clipboard: 0e6e73bc24ed359c5ce637301c69563058719aef
+  flutter_image_clipboard: 16a020af1e2e9526d89b2faad1369d8ff793b3cb
   image_picker_ios: c560581cceedb403a6ff17f2f816d7fea1421fc1
-  integration_test: 13825b8a9334a850581300559b8839134b124670
+  integration_test: 252f60fa39af5e17c3aa9899d35d908a0721b573
 
-PODFILE CHECKSUM: a57f30d18f102dd3ce366b1d62a55ecbef2158e5
+PODFILE CHECKSUM: 7be2f5f74864d463a8ad433546ed1de7e0f29aef
 
-COCOAPODS: 1.14.3
+COCOAPODS: 1.16.2
